@@ -1,0 +1,1 @@
+# blind-accessibility-extension
